@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/learn-ts/static/css/main.7acaea2f.css",
+    "main.js": "/learn-ts/static/js/main.d2e505a4.js",
+    "index.html": "/learn-ts/index.html",
+    "main.7acaea2f.css.map": "/learn-ts/static/css/main.7acaea2f.css.map",
+    "main.d2e505a4.js.map": "/learn-ts/static/js/main.d2e505a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.d2e505a4.js"
+  ]
+}
